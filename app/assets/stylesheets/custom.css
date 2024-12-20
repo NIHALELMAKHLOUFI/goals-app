@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa; /* Light background */
+  }
+  
+  h1, h2 {
+    color: #0d6efd; /* Bootstrap primary blue */
+    font-family: 'Roboto', sans-serif; /* Modern font */
+  }
+  
+  .btn-primary {
+    background-color: #0d6efd; /* Dark blue */
+    border-color: #0d6efd;
+  }
+  
+  .btn-warning {
+    background-color: #ffc107;
+    border-color: #ffc107;
+    color: #fff;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
